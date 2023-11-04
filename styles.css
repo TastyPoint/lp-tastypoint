@@ -756,3 +756,7 @@ body{
     padding: 0.5rem;
     border-radius: 0.5rem;
   }
+
+.nav-link {
+  font-size: 1.2rem;
+}
